@@ -1,0 +1,38 @@
+//THIAGO MORAES 
+//MATRÍCULA-> 21452625
+//AED2-2015/1
+//ALGORITMO DIJKSTRA 
+
+//OS TESTES FORAM FEITOS COM ESSE ARQUIVO //
+6
+0 1 2
+0 2 8
+1 2 15
+1 3 3
+2 4 1
+3 4 4
+3 5 45
+///////////////////////////////////////////
+// javac Grafos.java
+// java Grafo "grafos.txt"
+///////////////////////////////////////////
+OS TESTES FORAM DE:
+ORIGEM : 0
+DESTINO : 5
+RETORNOU A MENOR DISTÂNCIA:
+O caminho percorrido é
+0 -> 1 -> 3 -> 5 
+A distância total é:-> 50
+//////////////////////////////////////////
+ORIGEM :1
+DESTINO :4
+O caminho percorrido é
+0 -> 1 -> 3 -> 5
+A distância total é:-> 50
+//////////////////////////////////////////
+ORIGEM 	:3
+DESTINO :5
+O caminho percorrido é
+3 -> 5 
+A distância total é:-> 45
+//////////////////////////////////////////

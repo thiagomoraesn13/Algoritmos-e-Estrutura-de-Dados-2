@@ -1,0 +1,62 @@
+THIAGO MORAES 
+MATRÍCULA 21452625
+
+
+TESTES
+
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+FORAM INSERIDOS 12 CHAVES DISTINTAS, ABAIXO A SAÍDA APÓS CHAMAR A FUNÇÃO IMPRIME. 
+
+with == document3.txt, document2.txt,document1.txt
+you == document2.txt, document1.txt
+be == document1.txt
+remember == document1.txt
+this == document3.txt
+will == document1.txt
+strong == document3.txt, document2.txt
+always == document1.txt
+the == document3.txt ,document2.txt ,document1.txt
+one == document3.txt
+is == document3.txt ,document2.txt
+force == document3.txt, document2.txt ,document1.txt
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+AGORA O RESULTADO AO CHAMAR A FUNÇÃO CARGA UTILIZAÇÃO
+100.0 // RETORNOR QUE A FUNÇÃO ESTÁ 100% UTILIZADA 
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+FUNÇÃO BUSCA, DADO COMO CHAVE PARA SER BUSCADA A PALAVRA "ONE"
+
+PalavraItemNo@677327b6
+
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+AGORA SERÁ CHAMADA E FUNÇÃO REHASH E LOGO EM SEGUIDA A IMPRIME. 
+A ORDEM DOS ELEMENTOS MUDOU, UMA VEZ QUE A FUNÇÃO HASH É BASEADA NO TAMANHO DA TABELA 
+
+is == document3.txt, document2.txt
+will == document1.txt
+this == document3.txt
+the == document3.txt, document2.txt ,document1.txt
+one == document3.txt
+with == document3.txt ,document2.txt ,document1.txt
+force == document3.txt ,document2.txt,document1.txt
+always == document1.txt
+remember == document1.txt
+strong == document3.txt,document2.txt
+be == document1.txt
+you == document2.txt ,document1.txt
+
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+E POR ÚLTIMO A CARGA UTILIZAÇÃO NA NOVA TABELA. ABAIXO O RESULTADO DE RETORNO
+
+60.0 // RETORNOU QUE ESTÁ 60% UTILIZADA
+
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+FIM DE TESTES 
+
+
+
