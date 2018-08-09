@@ -1,0 +1,38 @@
+THIAGO MORAES - 21452625
+
+TESTES 
+
+GETTAMANHO =  retornou 7
+
+OS NOMES INSERIDOS FORAM :
+
+teste.insere("thiago");
+	teste.insere("thiago");
+
+	teste.insere("edwin");
+	teste.insere("edwin");
+
+	teste.insere("carlos");
+	teste.insere("carlos");
+	
+	teste.insere("brandell");
+	teste.insere("brandell");
+
+	teste.insere("joao");
+	teste.insere("pedro");
+
+	teste.insere("rodrigo");
+
+
+RETORNOU :
+
+brandell == 2
+carlos == 2
+edwin == 2
+joao == 1
+pedro == 1
+rodrigo == 1
+thiago == 2
+
+
+
